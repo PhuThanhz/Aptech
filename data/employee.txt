@@ -1,0 +1,2 @@
+100,Nguyễn Cao Triều,15/10/2001,Nam,TP.HCM,0987654321,trieucao@gmail.com,TP.HCM,10/5/2020,600.0,IT,Trưởng phòng,ImgEmployee\\img_new1.jpg
+101,Huỳnh Thạnh Phú,22/11/2002,Nam,Cần Thơ,0977888999,phuht@gmail.com,Cần Thơ,12/8/2021,450.0,Marketing,Nhân viên,ImgEmployee\\img_new2.jpg

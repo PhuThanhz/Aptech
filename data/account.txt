@@ -1,0 +1,9 @@
+admin,123,0
+nongmanh,1234,1
+manh26,6666,1
+nguyen,123456,1
+hau1248,haui,1
+nongmanh,123456,1
+lvduc142,kun1412,1
+phuthanh,123,1
+caotrieu,123456,1
